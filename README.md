@@ -41,5 +41,5 @@
 <section>
     <h2>Contact</h2>
     <p>Email: your-email@example.com</p>
-    <p>GitHub: <a href="https://github.com/your-username">github.com/your-username</a></p>
+    <p>GitHub: <a href="https://github.com/your-username">github.com/imdait</a></p>
 </section>
