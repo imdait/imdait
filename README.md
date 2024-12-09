@@ -40,6 +40,7 @@
 </section>
 <section>
     <h2>Contact</h2>
-    <p>Email: your-email@example.com</p>
+    <p>Email: rusekdnlt97@gmail.com</p>
     <p>GitHub: <a href="https://github.com/your-username">github.com/imdait</a></p>
+    
 </section>
